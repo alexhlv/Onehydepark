@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0; }
+
+.grid-container {
+  padding: 37px;
+  height: 80vh;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 30px; }
+
+/*# sourceMappingURL=style.css.map */
